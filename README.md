@@ -32,7 +32,7 @@
 
 ### 四. 如何客制成自己的 LINE-Bot
 首先將這份 LINE-Bot template Fork 回自己的 GitHub 專案
-1. 修改 Flask-LINE-Bot-Heroku/app.py/ 內的程式碼
+1. 修改 app.py/ 內的程式碼
 2. 修改 README.md 內的路徑 (如下圖)，改成自己的專案位置
 3. 點擊 Deploy to Heroku 按鈕完成部署
 
